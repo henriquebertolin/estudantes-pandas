@@ -1,5 +1,5 @@
 
 # estudantes-pandas
 
-Nesse projeto tive a oportunidade de fazer a análise de dados dos resultados acadêmicos de diversos estudantes através da biblioteca Pandas do Python. Através de funções e regras de négocio, filtrei os resultados desejados
+In this project, I had the opportunity to analyze the academic results data of various students using the Pandas library in Python. Through functions and business rules, I filtered the desired results.
 
